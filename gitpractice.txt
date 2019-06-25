@@ -3,3 +3,12 @@
 hello this is my second project
 
 This file is only for the practice purpose
+
+this is a devops training class
+
+You will get the message Browser not supported if you are trying to use Skype for Web in an unsupported browser. We recommend that you use the latest version...
+
+
+You will get the message Browser not supported if you are trying to use Skype for Web in an unsupported browser. We recommend that you use the latest version...
+
+You will get the message Browser not supported if you are trying to use Skype for Web in an unsupported browser. We recommend that you use the latest version...
